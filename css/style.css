@@ -15,7 +15,6 @@ h1 {
 h2 {
   font-size: 40px;
 }
-
 h3 {
   text-align: center;
 }
@@ -45,29 +44,155 @@ h3 {
 }
 
 /* Germany */
+#germany div {
+  height: 115px;
+  width: 800px;
+}
 
+#box3 {
+  background-color: black;
+}
+
+#box4 {
+  background-color: red;
+}
+#box5 {
+  background-color: yellow;
+}
 
 /* Lithuania */
+#lithuania div {
+  height: 115px;
+  width: 800px;
+}
+#box6 {
+  background-color: orange;
+}
+
+#box7 {
+  background-color: green;
+}
+#box8 {
+  background-color: red;
+}
 
 /* Yemen */
-
+#yemen div {
+  height: 115px;
+  width: 800px;
+}
+#box9 {
+  background-color: red;
+  margin-bottom: 115px;
+}
+#box11 {
+  background-color: black;
+}
 /* The Gambia */
-
-/* Yemen */
-
-/* The Gambia */
+#gambia div {
+  height: 100px;
+  width: 800px;
+  display: block;
+}
+#box12 {
+  background-color: red;
+  margin-bottom: 20px;
+}
+#box13 {
+  background-color:darkblue ;
+  margin-bottom: 20px;
+}
+  #box14 {
+  background-color: green;
+}
 
 /* Chad */
+#chad div {
+}
+#box15 {
+  background-color: darkblue;
+  height: 350px;
+   width: 266px;
+  float: left;
+}
+#box16 {
+  background-color:orange ;
+  height: 350px;
+   width: 266px;
+  float: left;
+}
+
+#box17 {
+  background-color: red;
+  height: 350px;
+   width: 266px;
+  float: left;
+}
 
 /* France */
+#france div {
+}
+#box18 {
+  background-color: darkblue;
+  float: left;
+  height: 350px;
+  width: 266px;
+}
+#box19{
+ background-color: red;
+  height: 350px;
+  width: 266px;
+ margin-left: 266px;
+  float: left;
+}
 
 /* Benin */
+  #benin div {
+}
+#box20 {
+  background-color: green;
+  float: left;
+  height: 350px;
+  width: 250px;
+}
+#box21 {
+  background-color: orange;
+  float: left;
+  height: 175px;
+  width: 550px;
+}
+#box22 {
+  background-color: red;
+  float: left;
+  height: 175px;
+  width: 550px;
+}
 
 /* UAE */
-
+ #uae div {
+}
+#box23 {
+  background-color: red;
+  float: left;
+  height: 348px;
+  width: 150px;
+}
+#box24 {
+  background-color: green;
+  float: left;
+  height: 116px;
+  width: 650px;
+}
+#box25 {
+  background-color: black;
+  float: left;
+  height: 116px;
+  width: 650px;
+  margin-top: 116px;
+}
 /* Denmark */
 
-/* Norway */ 
+/* Norway */
 
 /* Greece */
 
