@@ -191,10 +191,213 @@ h3 {
   margin-top: 116px;
 }
 /* Denmark */
-
+#box26 {
+  background-color: darkred;
+  float: left;
+  height: 144px;
+  width: 220px;
+  margin-top: 30px;
+margin-right: 30px;
+}
+#box27 {
+  background-color: darkred;
+float: right;
+  height: 144px;
+  width: 550px;
+margin-top: 30px;
+}
+#box28 {
+  background-color: darkred;
+  float: left;
+  height: 144px;
+  width: 220px;
+ margin-top: 30px;
+ margin-right: 30px;
+}
+#box29 {
+  background-color: darkred;
+  float: right;
+  height: 144px;
+  width: 550px;
+margin-top: 30px;
+}
 /* Norway */
+#box30 {
+  background-color: red;
+  float: left;
+  height: 114px;
+  width: 200px;
+   margin-bottom:30px;
+ margin-right:30px;
+
+}
+#box31 {
+  background-color: red;
+float: right;
+  height: 114px;
+  width: 480px;
+   margin-bottom:30px;
+ margin-left:30px;
+
+}
+#box32 {
+  background-color: darkblue;
+float: right;
+  height: 144px;
+  width: 60px;
+}
+#box33 {
+  background-color: darkblue;
+  float: right;
+  height: 60px;
+  width: 800px;
+}
+#box34 {
+  background-color: red;
+  float: left;
+  height: 114px;
+  width: 200px;
+   margin-top:30px;
+ margin-right:30px;
+
+}
+#box35 {
+  background-color: red;
+float: right;
+  height: 114px;
+  width: 480px;
+   margin-top:30px;
+ margin-left:30px;
+
+}
+#box36 {
+  background-color: darkblue;
+float: right;
+  height: 144px;
+  width: 60px;
+}
+
 
 /* Greece */
+#box30 {
+  background-color: red;
+  float: left;
+  height: 114px;
+  width: 200px;
+   margin-bottom:30px;
+ margin-right:30px;
+
+}
+#box31 {
+  background-color: red;
+float: right;
+  height: 114px;
+  width: 480px;
+   margin-bottom:30px;
+ margin-left:30px;
+
+}
+#box32 {
+  background-color: darkblue;
+float: right;
+  height: 144px;
+  width: 60px;
+}
+#box33 {
+  background-color: darkblue;
+  float: right;
+  height: 60px;
+  width: 800px;
+}
+#box34 {
+  background-color: red;
+  float: left;
+  height: 114px;
+  width: 200px;
+   margin-top:30px;
+ margin-right:30px;
+
+}
+#box35 {
+  background-color: red;
+float: right;
+  height: 114px;
+  width: 480px;
+   margin-top:30px;
+ margin-left:30px;
+
+}
+#box36 {
+  background-color: darkblue;
+float: right;
+  height: 144px;
+  width: 60px;
+}
+
+
+/* Greece */
+#box37 {
+  background-color: navy;
+  float: left;
+  height: 78px;
+  width: 78px;
+   margin-bottom:39px;
+ margin-right:39px;
+
+}
+#box38 {
+  background-color: navy;
+float: left;
+ height: 78px;
+  width: 78px;
+}
+#box39{
+  background-color: navy;
+float: right;
+   height: 39px;
+  width: 605px;
+margin-bottom:39px;
+}
+#box40{
+  background-color: navy;
+float: right;
+  height: 39px;
+  width: 605px;
+  margin-bottom:39px;
+}
+#box41 {
+  background-color: navy;
+  float: left;
+  height: 78px;
+  width: 78px;
+  margin-right:39px;
+}
+#box42 {
+  background-color: navy;
+  float: left;
+  height: 78px;
+  width: 78px;
+}
+#box43 {
+  background-color: navy;
+float: right;
+  height: 39px;
+  width: 605px;
+}
+#box44{
+  background-color: navy;
+float: right;
+  height: 39px;
+  width: 800px;
+  margin-top: 39px;
+}
+#box45 {
+  background-color: navy;
+float: right;
+  height: 39px;
+  width: 800px;
+  margin-top: 39px;
+}
 
 
 
